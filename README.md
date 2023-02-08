@@ -1,3 +1,3 @@
 i
 My first readme.
-i had an update file in my README.
+i had an updated file in my README.
